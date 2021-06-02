@@ -11,7 +11,10 @@ body {
     height: 100%;
     z-index: 9;
 }
-
+almuni img{
+    height:150px;
+    width:200px;
+}
 
 h1 {
     font-size: 40px;
@@ -78,10 +81,10 @@ row::after {
     width:100%;
     display:inline-block;
 }
-.movie_head i {
+.campus life_head i {
     float:right;
 }
-.movie_text span {
+.campus life_text span {
     color:#ff7700;
 }
 span {
